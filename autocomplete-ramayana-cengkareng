@@ -1,0 +1,117 @@
+{
+    "data": [
+        {
+            "description": "RAMAYANA CENGKARENG, Jalan Lingkar Luar Barat, RT.1/RW.2, East Cengkareng, West Jakarta City, Jakarta, Indonesia",
+            "place_id": "ChIJxbjXu_b3aS4ReT1Q14hxcQ8",
+            "types": [
+                "department_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "structured_formatting": {
+                "main_text": "RAMAYANA CENGKARENG",
+                "secondary_text": "Jalan Lingkar Luar Barat, RT.1/RW.2, East Cengkareng, West Jakarta City, Jakarta, Indonesia"
+            },
+            "geometry": {
+                "location": {
+                    "lat": -6.1531226,
+                    "lng": 106.7283183
+                }
+            },
+            "landmark": null,
+            "subplaces": null,
+            "event_name": "get_place_detail_redis"
+        },
+        {
+            "description": "Ramayana Cengkareng GoGrab, Jalan Lingkar Luar Barat, RT.1/RW.2, East Cengkareng, West Jakarta City, Jakarta, Indonesia",
+            "place_id": "ChIJBytvwPb3aS4RumsHHHw2bj8",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "structured_formatting": {
+                "main_text": "Ramayana Cengkareng GoGrab",
+                "secondary_text": "Jalan Lingkar Luar Barat, RT.1/RW.2, East Cengkareng, West Jakarta City, Jakarta, Indonesia"
+            },
+            "geometry": {
+                "location": {
+                    "lat": -6.153000200000001,
+                    "lng": 106.7282607
+                }
+            },
+            "landmark": null,
+            "subplaces": null,
+            "event_name": "get_place_detail_googlemaps_api"
+        },
+        {
+            "description": "Ramayana Cengkareng, East Cengkareng, West Jakarta City, Jakarta, Indonesia",
+            "place_id": "ChIJNRSovfb3aS4RIUKzEd_m_jQ",
+            "types": [
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "structured_formatting": {
+                "main_text": "Ramayana Cengkareng",
+                "secondary_text": "East Cengkareng, West Jakarta City, Jakarta, Indonesia"
+            },
+            "geometry": {
+                "location": {
+                    "lat": -6.1533013,
+                    "lng": 106.7280694
+                }
+            },
+            "landmark": null,
+            "subplaces": null,
+            "event_name": "get_place_detail_googlemaps_api"
+        },
+        {
+            "description": "Ciplaz Cengkareng (RAMAYANA), Jalan Lingkar Luar Barat, RT.1/RW.2, East Cengkareng, West Jakarta City, Jakarta, Indonesia",
+            "place_id": "ChIJ34UuATL3aS4RYTdkBoKE7Js",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "structured_formatting": {
+                "main_text": "Ciplaz Cengkareng (RAMAYANA)",
+                "secondary_text": "Jalan Lingkar Luar Barat, RT.1/RW.2, East Cengkareng, West Jakarta City, Jakarta, Indonesia"
+            },
+            "geometry": {
+                "location": {
+                    "lat": -6.1530098,
+                    "lng": 106.7282402
+                }
+            },
+            "landmark": null,
+            "subplaces": null,
+            "event_name": "get_place_detail_googlemaps_api"
+        },
+        {
+            "description": "KFC Ramayana Cengkareng, Jalan Lingkar Luar Barat, RW.2, East Cengkareng, West Jakarta City, Jakarta, Indonesia",
+            "place_id": "ChIJ2fYnvPb3aS4RL_1myEgEgVE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "structured_formatting": {
+                "main_text": "KFC Ramayana Cengkareng",
+                "secondary_text": "Jalan Lingkar Luar Barat, RW.2, East Cengkareng, West Jakarta City, Jakarta, Indonesia"
+            },
+            "geometry": {
+                "location": {
+                    "lat": -6.153035999999998,
+                    "lng": 106.728052
+                }
+            },
+            "landmark": null,
+            "subplaces": null,
+            "event_name": "get_place_detail_googlemaps_api"
+        }
+    ],
+    "status": "OK"
+}
