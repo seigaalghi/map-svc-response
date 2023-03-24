@@ -1,0 +1,299 @@
+{
+    "radius": 250,
+    "data": [
+        {
+            "landmark": {
+                "geometry": {
+                    "coordinates": [
+                        [
+                            [
+                                106.818953,
+                                -6.194342
+                            ],
+                            [
+                                106.818786,
+                                -6.195158
+                            ],
+                            [
+                                106.818802,
+                                -6.196059
+                            ],
+                            [
+                                106.819666,
+                                -6.196032
+                            ],
+                            [
+                                106.820304,
+                                -6.195856
+                            ],
+                            [
+                                106.820728,
+                                -6.19559
+                            ],
+                            [
+                                106.820696,
+                                -6.194571
+                            ],
+                            [
+                                106.818953,
+                                -6.194342
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "properties": {
+                    "address": "Menara BCA, Jl. M.H. Thamrin No.1, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",
+                    "centroid": [
+                        106.819756,
+                        -6.195374
+                    ],
+                    "city": "Jakarta",
+                    "id": 12,
+                    "name_en": "Grand Indonesia - West Mall",
+                    "name_id": "Grand Indonesia - Mall Barat",
+                    "predefined_dropoff": false,
+                    "restricted": false,
+                    "start_date": "2019-07-03T00:00:00Z",
+                    "status": "approved",
+                    "type": "Mall"
+                },
+                "type": "Feature"
+            },
+            "subplaces": {
+                "features": [
+                    {
+                        "geometry": {
+                            "coordinates": [
+                                106.819787,
+                                -6.194646
+                            ],
+                            "type": "Point"
+                        },
+                        "properties": {
+                            "id": 374,
+                            "is_service_point": true,
+                            "label": "A",
+                            "name_en": "Amarta Lobby",
+                            "name_id": "Lobi Amarta",
+                            "subplace_type": "N"
+                        },
+                        "type": "Feature"
+                    },
+                    {
+                        "geometry": {
+                            "coordinates": [
+                                106.820511,
+                                -6.195251
+                            ],
+                            "type": "Point"
+                        },
+                        "properties": {
+                            "id": 375,
+                            "is_service_point": true,
+                            "label": "B",
+                            "name_en": "Arjuna Lobby",
+                            "name_id": "Lobi Arjuna",
+                            "subplace_type": "N"
+                        },
+                        "type": "Feature"
+                    }
+                ],
+                "type": "FeatureCollection"
+            }
+        },
+        {
+            "landmark": {
+                "geometry": {
+                    "coordinates": [
+                        [
+                            [
+                                106.820884,
+                                -6.194384
+                            ],
+                            [
+                                106.820787,
+                                -6.194635
+                            ],
+                            [
+                                106.820975,
+                                -6.195648
+                            ],
+                            [
+                                106.822772,
+                                -6.197616
+                            ],
+                            [
+                                106.822987,
+                                -6.197494
+                            ],
+                            [
+                                106.822933,
+                                -6.195957
+                            ],
+                            [
+                                106.822359,
+                                -6.196
+                            ],
+                            [
+                                106.821978,
+                                -6.195901
+                            ],
+                            [
+                                106.821844,
+                                -6.195696
+                            ],
+                            [
+                                106.821855,
+                                -6.195206
+                            ],
+                            [
+                                106.821828,
+                                -6.194501
+                            ],
+                            [
+                                106.820884,
+                                -6.194384
+                            ],
+                            [
+                                106.820884,
+                                -6.194384
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "properties": {
+                    "address": "Jl. M.H. Thamrin No.1, Kb. Melati, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+                    "centroid": [
+                        106.821777,
+                        -6.195977999999999
+                    ],
+                    "city": "Jakarta",
+                    "id": 13,
+                    "name_en": "Grand Indonesia - East Mall",
+                    "name_id": "Grand Indonesia - Mall Timur",
+                    "predefined_dropoff": false,
+                    "restricted": false,
+                    "start_date": "2019-07-03T00:00:00Z",
+                    "status": "approved",
+                    "type": "Mall"
+                },
+                "type": "Feature"
+            },
+            "subplaces": {
+                "features": [
+                    {
+                        "geometry": {
+                            "coordinates": [
+                                106.821334,
+                                -6.195726
+                            ],
+                            "type": "Point"
+                        },
+                        "properties": {
+                            "id": 3390,
+                            "is_service_point": true,
+                            "label": "A",
+                            "name_en": "Ayodya Lobby",
+                            "name_id": "Lobi Ayodya",
+                            "subplace_type": "N"
+                        },
+                        "type": "Feature"
+                    },
+                    {
+                        "geometry": {
+                            "coordinates": [
+                                106.821453,
+                                -6.194584
+                            ],
+                            "type": "Point"
+                        },
+                        "properties": {
+                            "id": 3391,
+                            "is_service_point": true,
+                            "label": "B",
+                            "name_en": "Kempinski Private Residence",
+                            "name_id": "Kempinski Private Residence",
+                            "subplace_type": "N"
+                        },
+                        "type": "Feature"
+                    },
+                    {
+                        "geometry": {
+                            "coordinates": [
+                                106.822799,
+                                -6.196708
+                            ],
+                            "type": "Point"
+                        },
+                        "properties": {
+                            "id": 3392,
+                            "is_service_point": true,
+                            "label": "C",
+                            "name_en": "Menara BCA",
+                            "name_id": "Menara BCA",
+                            "subplace_type": "N"
+                        },
+                        "type": "Feature"
+                    },
+                    {
+                        "geometry": {
+                            "coordinates": [
+                                106.821093,
+                                -6.195104
+                            ],
+                            "type": "Point"
+                        },
+                        "properties": {
+                            "id": 3393,
+                            "is_service_point": true,
+                            "label": "D",
+                            "name_en": "Rama Lobby",
+                            "name_id": "Lobi Rama",
+                            "subplace_type": "N"
+                        },
+                        "type": "Feature"
+                    },
+                    {
+                        "geometry": {
+                            "coordinates": [
+                                106.82277,
+                                -6.196313
+                            ],
+                            "type": "Point"
+                        },
+                        "properties": {
+                            "id": 3394,
+                            "is_service_point": true,
+                            "label": "E",
+                            "name_en": "Ramayana Lobby",
+                            "name_id": "Lobi Ramayana",
+                            "subplace_type": "N"
+                        },
+                        "type": "Feature"
+                    },
+                    {
+                        "geometry": {
+                            "coordinates": [
+                                106.821952,
+                                -6.196473
+                            ],
+                            "type": "Point"
+                        },
+                        "properties": {
+                            "id": 3395,
+                            "is_service_point": true,
+                            "label": "F",
+                            "name_en": "Shinta Lobby",
+                            "name_id": "Lobi Shinta",
+                            "subplace_type": "N"
+                        },
+                        "type": "Feature"
+                    }
+                ],
+                "type": "FeatureCollection"
+            }
+        }
+    ]
+}
